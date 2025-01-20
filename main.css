@@ -17,7 +17,8 @@ li {
 
 table,
 th,
-td {
+td,
+tr {
     border: 0.5rem solid;
     border-color: rgb(133, 109, 109);
     color: #261138
