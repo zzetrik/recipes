@@ -11,6 +11,11 @@ body {
     width: 30%;
 }
 
+.nasi_goreng_tomyam {
+    display: block;
+    width: 30%;
+}
+
 li {
     list-style-type: none;
 }
