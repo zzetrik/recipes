@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: monospace;
     font-weight: 500;
@@ -29,4 +35,9 @@ tr {
     border-collapse: collapse;
     padding: 0.5rem;
     color: #261138
+}
+
+.headlineMain,
+.headlineRecipe {
+    text-align: center;
 }
