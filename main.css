@@ -42,7 +42,7 @@ tr {
     text-align: center;
 }
 
-img {
+.indexImg {
     display: block;
     margin: auto;
     height: 400px;
