@@ -41,3 +41,16 @@ tr {
 .headlineRecipe {
     text-align: center;
 }
+
+img {
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: auto;
+    padding: 8px;
+}
+
+.centeredLink {
+    text-align: center;
+    font-weight: bold;
+}
