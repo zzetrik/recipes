@@ -115,5 +115,13 @@ hr {
     display: flex;
     width: 900px;
     justify-content: space-between;
-    border: 1px solid black;
+}
+
+.social-two,
+.social-three {
+    align-self: center;
+}
+
+.social-one {
+    padding-top: 3px;
 }
