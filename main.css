@@ -104,3 +104,16 @@ hr {
     border-bottom: 1px solid;
 
 }
+
+.social-icons-container {
+    display: flex;
+    padding: 20px 0;
+    justify-content: center;
+}
+
+.social-icons {
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    border: 1px solid black;
+}
